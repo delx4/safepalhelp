@@ -11,7 +11,7 @@ How to Reach SafePal Customer Support (What to Know Before You Call)
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="tel:+18704066577" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
+       <a href="tel:+18582180011" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
    </div>
 
 ==============================
