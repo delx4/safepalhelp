@@ -16,9 +16,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'eToro Wallet'
+project = 'Safepal Wallet'
 copyright = '2025'
-author = 'Carson McCullers'
+author = 'Paul Carl Dillion'
 
 
 # The full version, including alpha/beta/rc tags
